@@ -1,0 +1,15 @@
+{ "5": { 
+    "billingtype": 3,
+     "changenumber": 1796623,
+     "codeclass": 1,
+     "gamecode": 3,
+     "licensetype": 1,
+     "packageid": 5,
+     "status": 0,
+     "territorycode": 0,
+     "extended": { "DevComp": 1, "OnPurchaseGrantGuestPassPackage1": 292 },
+     "appids": [ 10, 20, 30, 40, 50, 60, 70, 130, 211, 215, 218, 220, 240, 320, 340, 254430 ],
+     "depotids": [ 0, 221, 241, 263, 341, 254431 ],
+     "AppItems": [] 
+   } 
+}
