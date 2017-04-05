@@ -6,9 +6,6 @@
   "dependencies": {
     "long": "^3.2.0"
   },
-  "bundledDependencies": [
-    "long"
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/DoctorMcKay/node-binarykvparser"
